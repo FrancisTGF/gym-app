@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978861888814",
+    "project_id": "asesorias-c9310",
+    "storage_bucket": "asesorias-c9310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978861888814:android:44877a3452bfd6b1cb96bf",
+        "android_client_info": {
+          "package_name": "com.francist.proyecto_asesorias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978861888814-vsnnassmm4nd365qdbmj5mosoa6mv7vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDHFMm5CgdO21GoCtNm1KW4Rf_HL283c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978861888814-vsnnassmm4nd365qdbmj5mosoa6mv7vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

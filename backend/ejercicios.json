@@ -1,0 +1,151 @@
+{
+  "ejercicios": [
+    {
+      "id": 1,
+      "nombreEjercicio": "Press Banca",
+      "kilogramos": "150",
+      "repeticiones": "10",
+      "esfuerzo_percibido": "10",
+      "color": "NoteColor.Yellow",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "nombreEjercicio": "preessf",
+      "kilogramos": "4",
+      "repeticiones": "4",
+      "esfuerzo_percibido": "4",
+      "color": "NoteColor.Yellow",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "nombreEjercicio": "prees",
+      "kilogramos": "348",
+      "repeticiones": "323",
+      "esfuerzo_percibido": "314",
+      "color": "NoteColor.Green",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "nombreEjercicio": "PesoMuerto",
+      "kilogramos": "350",
+      "repeticiones": "350",
+      "esfuerzo_percibido": "350",
+      "color": "NoteColor.Red",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "nombreEjercicio": "Pressbanca2",
+      "kilogramos": "14",
+      "repeticiones": "14",
+      "esfuerzo_percibido": "14",
+      "color": "NoteColor.Red",
+      "userId": 3
+    },
+    {
+      "id": 6,
+      "nombreEjercicio": "xvcv",
+      "kilogramos": "453",
+      "repeticiones": "56",
+      "esfuerzo_percibido": "56",
+      "color": "NoteColor.Green",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$Uoc9dw.DJ.qu8z0.H74Nm.M.C17CAREJXZX8nr3YONK6O4l4CU52m",
+      "firstname": "a",
+      "peso": "5",
+      "altura": "5",
+      "edad": "5",
+      "annos_entrenando": "5",
+      "rm_squat": "55",
+      "rm_bench": "5",
+      "rm_dead_lift": "5",
+      "id": 1
+    },
+    {
+      "email": "francist@gmail.com",
+      "password": "$2a$10$Lxk2i2QO.qmVt1PBiPfkWOfKA3aP/C/.OCsQT28llPltAEh40u6eC",
+      "firstname": "f",
+      "peso": "6",
+      "altura": "6",
+      "edad": "6",
+      "annos_entrenando": "6",
+      "rm_squat": "6",
+      "rm_bench": "6",
+      "rm_dead_lift": "6",
+      "id": 2
+    },
+    {
+      "email": "francistrr@gmail.com",
+      "firstname": "francist",
+      "password": "$2a$10$5rUaAWdVOHUmzP.kYxdmceeFKZqpO5CneSX/UIkmMxELITua6xHNG",
+      "peso": "148",
+      "altura": "190",
+      "edad": "28",
+      "annos_entrenando": "51",
+      "rm_squat": "360",
+      "rm_bench": "195",
+      "rm_dead_lift": "350",
+      "id": 3
+    },
+    {
+      "email": "francistgf@gmail.com",
+      "password": "$2a$10$4lskhijZqhAUZmWg1BPc3.uWKnTzdiflHjN0VRDypM1C7pOGXzhfq",
+      "firstname": "dad",
+      "peso": "123123",
+      "altura": "123",
+      "edad": "555",
+      "annos_entrenando": "12",
+      "rm_squat": "21231",
+      "rm_bench": "3212",
+      "rm_dead_lift": "31212",
+      "id": 4
+    },
+    {
+      "email": "francisghujt@gmail.com",
+      "password": "$2a$10$899fSoQib1T/XVmmYChr3e7vWhJmcIlSYJaqJUv7yq6PDii1Y4RN.",
+      "firstname": "asdas",
+      "peso": "44",
+      "altura": "4",
+      "edad": "4",
+      "annos_entrenando": "4",
+      "rm_squat": "4",
+      "rm_bench": "4",
+      "rm_dead_lift": "4",
+      "id": 5
+    },
+    {
+      "email": "francist89@gmail.com",
+      "password": "$2a$10$InC.ZwTTR1GA26P9Ra2GaOlKPA2CflF7OoFdHcq61LGS3xbyIPheu",
+      "firstname": "gcgf",
+      "peso": "245",
+      "altura": "54",
+      "edad": "545",
+      "annos_entrenando": "5454",
+      "rm_squat": "4545",
+      "rm_bench": "4554",
+      "rm_dead_lift": "4554",
+      "id": 6
+    },
+    {
+      "email": "francistasd@gmail.com",
+      "password": "$2a$10$Xl5ZF/6h1VlI7C4VC.XtGuO/OkCgEDStyMRkEkAX7NrqvIiC/oqJe",
+      "firstname": "asasd",
+      "peso": "324",
+      "altura": "243",
+      "edad": "234",
+      "annos_entrenando": "234",
+      "rm_squat": "234",
+      "rm_bench": "243",
+      "rm_dead_lift": "234",
+      "id": 7
+    }
+  ]
+}
